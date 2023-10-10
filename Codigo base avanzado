@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap" rel="stylesheet">
+
+<title> Jurassic World </title>
+<meta charset="utf-8">
+<style>
+.container {
+ background: blue;
+ display: flex;
+ width: 200px;
+ height: 200px;
+
+ flex-wrap: wrap;
+ Align-content: flex-end;
+}
+
+.item {
+ background: #C6E2AE;
+ width: 50%;
+ height: 50px;
+}
+
+h1{ 
+font-family: 'Grape Nuts', cursive;
+}
+
+p{
+font-family: 'Zen Loop', cursive;
+}
+
+</style>
+</head>
+<body bgcolor="#85929E">
+<h1> La mejor pelicula del 2022</h1>
+<p> Han pasado 22 años desde que el millonario John Hammond clonara el primer dinosaurio. Con tecnologías mejoradas y nuevas medidas de seguridad, el parque temático "Jurassic World" abre sus puertas. La nueva atracción del parque es el Indominus Rex, una nueva especie de dinosaurio creada por los científicos de forma artificial y más peligrosa que las otras especies conocidas. Sin embargo, algo sale mal y el dinosaurio se escapa y provoca el caos en el parque.</p>
+<img src="file:///C:/Users/SOPORTE%20INFORMATICO/Desktop/pj.jpg" alt="imagen" sizes="(max-width:320px) 280px,">
+
+<div class="container">
+<div class="item item-1">Uno</div>
+<div class="item item-2">Dos</div>
+<div class="item item-3">Tres</div>
+<div class="item item-4">Cuatro</div>
+</div>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegsRkgec3hanVpmXZnwK4kioP1uWAHvcTrX-ehcbZv7IciVQ/viewform?embedded=true" width="980" height="350" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+
+</body>
+</html>
